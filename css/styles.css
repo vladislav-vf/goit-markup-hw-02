@@ -133,9 +133,10 @@ a{
     text-align: center;
     color: #434455;
 }
-.team-list {
+.team-item {
     background-color: #fff;
 }
+
 /* #endregion */
 /* #region footer */
 .footer-logo .logo-part {
